@@ -1,5 +1,3 @@
-README
-
 This is a socket programming based Multichat program. 
 This program allows us to chat as a group based on the IP address connected.
 The programming language used here is Java.
@@ -16,8 +14,4 @@ In order to run the program, please do :
 We would like to thank WittCode for the inspiration, without him this project wouldn't have come to succession as it is right now!
 
 Please feel free to contact 
-henzel.theodore.putra@mail.ugm.ac.id, 
-putu.arv2003@mail.ugm.ac.id, 
-or rabbani.nur.kumoro@mail.ugm.ac.id if any problem occurs!
-
-  
+rabbani.nur.kumoro@mail.ugm.ac.id if any problem occurs!
